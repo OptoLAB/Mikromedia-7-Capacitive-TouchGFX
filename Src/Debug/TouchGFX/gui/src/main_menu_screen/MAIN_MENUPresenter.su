@@ -1,0 +1,13 @@
+Presenter.hpp:42:18:virtual void touchgfx::Presenter::activate()	16	static
+Presenter.hpp:54:18:virtual void touchgfx::Presenter::deactivate()	16	static
+Presenter.hpp:65:13:touchgfx::Presenter::~Presenter()	16	static
+Presenter.hpp:65:13:virtual touchgfx::Presenter::~Presenter()	16	static
+Presenter.hpp:78:5:touchgfx::Presenter::Presenter()	16	static
+ModelListener.hpp:9:5:ModelListener::ModelListener()	16	static
+ModelListener.hpp:11:13:ModelListener::~ModelListener()	16	static
+ModelListener.hpp:11:13:virtual ModelListener::~ModelListener()	16	static
+MAIN_MENUPresenter.hpp:28:13:MAIN_MENUPresenter::~MAIN_MENUPresenter()	16	static
+MAIN_MENUPresenter.hpp:28:13:virtual MAIN_MENUPresenter::~MAIN_MENUPresenter()	16	static
+MAIN_MENUPresenter.cpp:4:1:MAIN_MENUPresenter::MAIN_MENUPresenter(MAIN_MENUView&)	16	static
+MAIN_MENUPresenter.cpp:10:6:virtual void MAIN_MENUPresenter::activate()	16	static
+MAIN_MENUPresenter.cpp:15:6:virtual void MAIN_MENUPresenter::deactivate()	16	static

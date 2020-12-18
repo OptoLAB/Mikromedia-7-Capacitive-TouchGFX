@@ -1,0 +1,4 @@
+nonos.c:55:18:_SlNonOsSemSet	16	static
+nonos.c:61:18:_SlNonOsSemGet	48	static
+nonos.c:137:18:_SlNonOsSpawn	32	static
+nonos.c:165:18:_SlNonOsMainLoopTask	24	static

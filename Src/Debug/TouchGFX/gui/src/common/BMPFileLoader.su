@@ -1,0 +1,6 @@
+Bitmap.hpp:182:14:touchgfx::BitmapId touchgfx::Bitmap::getId() const	16	static
+BMPFileLoader.cpp:26:5:static int BMPFileLoader::readFile(FIL, uint8_t*, uint32_t)	16	static
+BMPFileLoader.cpp:37:6:static void BMPFileLoader::seekFile(FIL, uint32_t)	8	static
+BMPFileLoader.cpp:42:10:static uint32_t BMPFileLoader::convertRGB(unsigned char, unsigned char, uint32_t)	24	static
+BMPFileLoader.cpp:89:15:static BMP_FILE_info BMPFileLoader::getBMPInfoFromSD(TCHAR*)	4168	static
+BMPFileLoader.cpp:126:6:static void BMPFileLoader::loadBMPfromSD(BMP_FILE_info, touchgfx::Bitmap)	8448	static

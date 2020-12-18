@@ -1,0 +1,13 @@
+SSD1963.c:17:6:SSD1963_WriteCommand	16	static,ignoring_inline_asm
+SSD1963.c:28:6:SSD1963_WriteData	16	static,ignoring_inline_asm
+SSD1963.c:39:6:SSD1963_WriteDataMultiple	16	static
+SSD1963.c:51:10:SSD1963_ReadData	4	static
+SSD1963.c:59:6:SSD1963_ReadDataMultiple	16	static
+SSD1963.c:71:6:SSD1963_Init	8	static
+SSD1963.c:148:6:SSD1963_SetArea	24	static
+SSD1963.c:165:6:SSD1963_FillArea	32	static
+SSD1963.c:178:6:SSD1963_ClearScreen	24	static
+SSD1963.c:194:6:SSD193_SetPixel	16	static
+SSD1963.c:204:6:SSD1963_SetBacklight	16	static
+SSD1963.c:217:6:SSD1963_SetScrollArea	16	static
+SSD1963.c:230:6:SSD1963_SetScrollStart	16	static

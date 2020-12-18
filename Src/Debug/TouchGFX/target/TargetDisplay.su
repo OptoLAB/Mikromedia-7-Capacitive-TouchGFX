@@ -1,0 +1,9 @@
+TargetDisplay.c:17:6:DISP_Init	8	static
+TargetDisplay.c:31:6:DISP_TransmitData	32	static
+TargetDisplay.c:53:9:DISP_IsTransmittingData	4	static
+TargetDisplay.c:61:6:TOUCH_Init	88	static
+TargetDisplay.c:67:9:TOUCH_IsPressed	4	static
+TargetDisplay.c:71:6:TOUCH_Set	4	static
+TargetDisplay.c:76:6:TOUCH_Reset	8	static
+TargetDisplay.c:82:12:TOUCH_GetData	32	static
+TargetDisplay.c:96:6:FLASH_copyData	32	static

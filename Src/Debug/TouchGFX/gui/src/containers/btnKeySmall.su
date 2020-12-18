@@ -1,0 +1,56 @@
+Types.hpp:193:5:touchgfx::Rect::Rect(int16_t, int16_t, int16_t, int16_t)	24	static
+Drawable.hpp:75:13:touchgfx::Drawable::~Drawable()	16	static
+Drawable.hpp:75:13:virtual touchgfx::Drawable::~Drawable()	16	static
+Drawable.hpp:248:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	24	static
+Drawable.hpp:322:18:virtual void touchgfx::Drawable::setX(int16_t)	16	static
+Drawable.hpp:338:18:virtual void touchgfx::Drawable::setY(int16_t)	16	static
+Drawable.hpp:355:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+Drawable.hpp:372:18:virtual void touchgfx::Drawable::setWidth(int16_t)	16	static
+Drawable.hpp:388:18:virtual void touchgfx::Drawable::setHeight(int16_t)	16	static
+Drawable.hpp:403:18:virtual void touchgfx::Drawable::childGeometryChanged()	16	static
+Drawable.hpp:415:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	16	static
+Drawable.hpp:427:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	16	static
+Drawable.hpp:439:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	16	static
+Drawable.hpp:452:18:virtual void touchgfx::Drawable::handleTickEvent()	16	static
+Drawable.hpp:499:10:bool touchgfx::Drawable::isVisible() const	16	static
+Drawable.hpp:515:10:bool touchgfx::Drawable::isTouchable() const	16	static
+Drawable.hpp:563:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	16	static
+Drawable.hpp:601:10:void touchgfx::Drawable::resetDrawChainCache()	16	static
+Drawable.hpp:687:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	24	static
+Container.hpp:63:13:touchgfx::Container::~Container()	16	static
+Container.hpp:63:13:virtual touchgfx::Container::~Container()	16	static
+Widget.hpp:53:13:touchgfx::Widget::~Widget()	16	static
+Widget.hpp:53:13:virtual touchgfx::Widget::~Widget()	16	static
+Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	24	static
+AbstractButton.hpp:35:7:touchgfx::AbstractButton::~AbstractButton()	16	static
+AbstractButton.hpp:35:7:virtual touchgfx::AbstractButton::~AbstractButton()	16	static
+Button.hpp:53:13:touchgfx::Button::~Button()	16	static
+Button.hpp:53:13:virtual touchgfx::Button::~Button()	16	static
+TypedText.hpp:135:17:const touchgfx::Font* touchgfx::TypedText::getFont() const	16	static
+TypedText.hpp:220:10:void touchgfx::TypedText::assertValid() const	16	static
+TextArea.hpp:70:18:virtual touchgfx::Rect touchgfx::TextArea::getSolidRect() const	24	static
+TextArea.hpp:143:18:virtual void touchgfx::TextArea::setBaselineY(int16_t)	40	static
+TextArea.hpp:162:18:virtual void touchgfx::TextArea::setXBaselineY(int16_t, int16_t)	16	static
+TextArea.hpp:297:15:touchgfx::TypedText touchgfx::TextArea::getTypedText() const	16	static
+TextArea.hpp:46:7:touchgfx::TextArea::~TextArea()	16	static
+TextArea.hpp:46:7:virtual touchgfx::TextArea::~TextArea()	16	static
+TextAreaWithWildcard.hpp:35:7:touchgfx::TextAreaWithWildcardBase::~TextAreaWithWildcardBase()	16	static
+TextAreaWithWildcard.hpp:35:7:virtual touchgfx::TextAreaWithWildcardBase::~TextAreaWithWildcardBase()	16	static
+btnKeySmallBase.hpp:16:13:btnKeySmallBase::~btnKeySmallBase()	16	static
+btnKeySmallBase.hpp:16:13:virtual btnKeySmallBase::~btnKeySmallBase()	16	static
+btnKeySmall.hpp:10:13:btnKeySmall::~btnKeySmall()	16	static
+btnKeySmall.hpp:10:13:virtual btnKeySmall::~btnKeySmall()	16	static
+btnKeySmall.cpp:3:1:btnKeySmall::btnKeySmall()	16	static
+btnKeySmall.cpp:8:6:virtual void btnKeySmall::initialize()	16	static
+btnKeySmall.cpp:12:6:virtual void btnKeySmall::setText(touchgfx::Unicode::UnicodeChar*, uint8_t)	24	static
+btnKeySmall.cpp:18:9:virtual uint8_t btnKeySmall::getText(touchgfx::Unicode::UnicodeChar*)	16	static
+btnKeySmall.cpp:23:6:virtual void btnKeySmall::setAction(touchgfx::GenericCallback<btnKeySmall&>&)	16	static
+btnKeySmall.cpp:27:6:virtual void btnKeySmall::btnKeyClicked()	16	static
+TextAreaWithWildcard.hpp:63:7:touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	16	static
+TextAreaWithWildcard.hpp:63:7:virtual touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	16	static
+Callback.hpp:469:8:touchgfx::Callback<btnKeySmallBase, const touchgfx::AbstractButton&>::~Callback()	16	static
+Callback.hpp:469:8:virtual touchgfx::Callback<btnKeySmallBase, const touchgfx::AbstractButton&>::~Callback()	16	static
+Callback.hpp:177:13:touchgfx::GenericCallback<T1, void, void>::~GenericCallback() [with T1 = const touchgfx::AbstractButton&]	16	static
+Callback.hpp:177:13:touchgfx::GenericCallback<T1, void, void>::~GenericCallback() [with T1 = const touchgfx::AbstractButton&]	16	static
+Callback.hpp:511:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = btnKeySmallBase; T1 = const touchgfx::AbstractButton&]	16	static
+Callback.hpp:525:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = btnKeySmallBase; T1 = const touchgfx::AbstractButton&]	16	static

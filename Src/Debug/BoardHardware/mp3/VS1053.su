@@ -1,0 +1,11 @@
+VS1053.c:10:6:SPI_Write	16	static
+VS1053.c:16:9:SPI_Read	16	static
+VS1053.c:27:6:VS1053_SCI_Write	16	static
+VS1053.c:40:6:VS1053_SCI_Read	24	static
+VS1053.c:58:6:VS1053_SDI_Write	16	static
+VS1053.c:70:6:VS1053_SDI_Write_32	24	static
+VS1053.c:84:6:VS1053_ResetTime	8	static
+VS1053.c:89:6:VS1053_GetDecodeTime	16	static
+VS1053.c:95:6:VS1053_SetVolume	24	static
+VS1053.c:103:6:VS1053_SetDefaultMode	8	static
+VS1053.c:122:6:VS1053_Init	8	static

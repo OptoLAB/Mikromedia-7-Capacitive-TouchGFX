@@ -1,0 +1,2 @@
+netcfg.c:64:6:sl_NetCfgSet	48	static
+netcfg.c:107:6:sl_NetCfgGet	56	static

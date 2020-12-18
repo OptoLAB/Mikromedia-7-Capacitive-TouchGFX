@@ -1,0 +1,74 @@
+Types.hpp:193:5:touchgfx::Rect::Rect(int16_t, int16_t, int16_t, int16_t)	24	static
+Types.hpp:215:20:int16_t touchgfx::Rect::right() const	16	static
+Drawable.hpp:248:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	24	static
+Drawable.hpp:292:13:int16_t touchgfx::Drawable::getWidth() const	16	static
+Drawable.hpp:306:13:int16_t touchgfx::Drawable::getHeight() const	16	static
+Drawable.hpp:322:18:virtual void touchgfx::Drawable::setX(int16_t)	16	static
+Drawable.hpp:338:18:virtual void touchgfx::Drawable::setY(int16_t)	16	static
+Drawable.hpp:355:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+Drawable.hpp:372:18:virtual void touchgfx::Drawable::setWidth(int16_t)	16	static
+Drawable.hpp:388:18:virtual void touchgfx::Drawable::setHeight(int16_t)	16	static
+Drawable.hpp:403:18:virtual void touchgfx::Drawable::childGeometryChanged()	16	static
+Drawable.hpp:415:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	16	static
+Drawable.hpp:427:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	16	static
+Drawable.hpp:439:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	16	static
+Drawable.hpp:452:18:virtual void touchgfx::Drawable::handleTickEvent()	16	static
+Drawable.hpp:499:10:bool touchgfx::Drawable::isVisible() const	16	static
+Drawable.hpp:515:10:bool touchgfx::Drawable::isTouchable() const	16	static
+Drawable.hpp:563:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	16	static
+Drawable.hpp:601:10:void touchgfx::Drawable::resetDrawChainCache()	16	static
+Drawable.hpp:687:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	24	static
+Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	24	static
+CWRUtil.hpp:71:9:touchgfx::CWRUtil::Q5::Q5()	16	static
+CWRUtil.hpp:83:18:touchgfx::CWRUtil::Q5::Q5(int)	16	static
+CWRUtil.hpp:107:9:touchgfx::CWRUtil::Q5::operator int() const	16	static
+CWRUtil.hpp:137:12:touchgfx::CWRUtil::Q5 touchgfx::CWRUtil::Q5::operator+(const touchgfx::CWRUtil::Q5&) const	24	static
+CWRUtil.hpp:153:12:touchgfx::CWRUtil::Q5 touchgfx::CWRUtil::Q5::operator-(const touchgfx::CWRUtil::Q5&) const	24	static
+CWRUtil.hpp:172:13:touchgfx::CWRUtil::Q10 touchgfx::CWRUtil::Q5::operator*(const touchgfx::CWRUtil::Q5&) const	24	static
+CWRUtil.hpp:225:12:touchgfx::CWRUtil::Q5 touchgfx::CWRUtil::Q5::operator/(int) const	24	static
+CWRUtil.hpp:311:18:touchgfx::CWRUtil::Q10::Q10(int)	16	static
+CWRUtil.hpp:322:9:touchgfx::CWRUtil::Q10::operator int() const	16	static
+CWRUtil.hpp:352:13:touchgfx::CWRUtil::Q10 touchgfx::CWRUtil::Q10::operator+(const touchgfx::CWRUtil::Q10&) const	24	static
+CWRUtil.hpp:385:12:touchgfx::CWRUtil::Q5 touchgfx::CWRUtil::Q10::operator/(const touchgfx::CWRUtil::Q5&) const	32	static
+CWRUtil.hpp:837:15:static touchgfx::CWRUtil::Q5 touchgfx::CWRUtil::sqrtQ10(touchgfx::CWRUtil::Q10)	24	static
+CWRUtil.hpp:937:21:static uint32_t touchgfx::CWRUtil::isqrt(uint32_t)	32	static
+CanvasWidget.hpp:97:18:virtual void touchgfx::CanvasWidget::setAlpha(uint8_t)	16	static
+CanvasWidget.hpp:111:21:virtual uint8_t touchgfx::CanvasWidget::getAlpha() const	16	static
+AbstractGraph.hpp:465:17:touchgfx::CWRUtil::Q5 AbstractGraph::xAboveOutgoing(int) const	24	static
+AbstractGraph.hpp:469:17:touchgfx::CWRUtil::Q5 AbstractGraph::yAboveOutgoing(int) const	24	static
+AbstractGraph.hpp:473:17:touchgfx::CWRUtil::Q5 AbstractGraph::xBelowOutgoing(int) const	24	static
+AbstractGraph.hpp:477:17:touchgfx::CWRUtil::Q5 AbstractGraph::yBelowOutgoing(int) const	24	static
+AbstractGraph.hpp:481:17:touchgfx::CWRUtil::Q5 AbstractGraph::xAboveIncoming(int) const	24	static
+AbstractGraph.hpp:485:17:touchgfx::CWRUtil::Q5 AbstractGraph::yAboveIncoming(int) const	24	static
+AbstractGraph.hpp:489:17:touchgfx::CWRUtil::Q5 AbstractGraph::xBelowIncoming(int) const	24	static
+AbstractGraph.hpp:493:17:touchgfx::CWRUtil::Q5 AbstractGraph::yBelowIncoming(int) const	24	static
+AbstractGraph.cpp:5:1:AbstractGraph::AbstractGraph()	16	static
+AbstractGraph.cpp:11:1:AbstractGraph::~AbstractGraph()	16	static
+AbstractGraph.cpp:11:1:virtual AbstractGraph::~AbstractGraph()	16	static
+AbstractGraph.cpp:15:13:touchgfx::CWRUtil::Q5 AbstractGraph::widgetX(int) const	40	static
+AbstractGraph.cpp:24:13:touchgfx::CWRUtil::Q5 AbstractGraph::widgetY(int) const	40	static
+AbstractGraph.cpp:33:13:touchgfx::CWRUtil::Q5 AbstractGraph::widgetXindex(int) const	16	static
+AbstractGraph.cpp:38:13:touchgfx::CWRUtil::Q5 AbstractGraph::widgetYindex(int) const	16	static
+AbstractGraph.cpp:43:6:void AbstractGraph::setBuffer(AbstractGraph::GraphPoint*, int)	24	static
+AbstractGraph.cpp:54:6:void AbstractGraph::setLinkedGraph(AbstractGraph&)	16	static
+AbstractGraph.cpp:70:6:void AbstractGraph::setRange(int, int, int, int)	32	static
+AbstractGraph.cpp:83:6:virtual void AbstractGraph::setX(int16_t)	16	static
+AbstractGraph.cpp:92:6:virtual void AbstractGraph::setY(int16_t)	16	static
+AbstractGraph.cpp:101:6:virtual void AbstractGraph::setWidth(int16_t)	16	static
+AbstractGraph.cpp:110:6:virtual void AbstractGraph::setHeight(int16_t)	16	static
+AbstractGraph.cpp:119:6:virtual void AbstractGraph::clearGraph()	16	static
+AbstractGraph.cpp:128:6:virtual bool AbstractGraph::addValue(int, int)	32	static
+AbstractGraph.cpp:174:6:virtual bool AbstractGraph::deleteValue(int)	24	static
+AbstractGraph.cpp:195:6:virtual bool AbstractGraph::drawCanvasWidget(const touchgfx::Rect&) const	264	static
+AbstractGraph.cpp:256:6:virtual void AbstractGraph::invalidateRectContainingIndices(int, int) const	40	static
+AbstractGraph.cpp:267:6:virtual void AbstractGraph::updateAndInvalidateCacheForLinesBetweenIndeces(int, int)	88	static
+AbstractGraph.cpp:305:6:virtual touchgfx::Rect AbstractGraph::getMinimalRect() const	32	static
+AbstractGraph.cpp:314:6:virtual void AbstractGraph::setNumPoints(int)	16	static
+AbstractGraph.cpp:323:6:virtual void AbstractGraph::invalidateLineFromIndex(int)	16	static
+AbstractGraph.cpp:335:6:virtual void AbstractGraph::insertPointAtIndex(int)	32	static
+AbstractGraph.cpp:346:6:virtual void AbstractGraph::deletePointAtIndex(int)	32	static
+AbstractGraph.cpp:356:5:virtual int AbstractGraph::findX(int)	32	static
+AbstractGraph.cpp:391:6:void AbstractGraph::assignRange(int, int, int, int)	48	static
+AbstractGraph.cpp:407:6:virtual void AbstractGraph::assignWidth(int16_t)	24	static
+AbstractGraph.cpp:417:6:virtual void AbstractGraph::assignHeight(int16_t)	24	static
+CWRUtil.hpp:263:11:T touchgfx::CWRUtil::Q5::to() const [with T = int]	16	static

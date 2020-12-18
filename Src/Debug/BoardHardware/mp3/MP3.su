@@ -1,0 +1,10 @@
+MP3.c:21:6:MP3_SetVolume	16	static
+MP3.c:27:6:MP3_SetState	16	static
+MP3.c:32:5:MP3_GetState	4	static
+MP3.c:37:15:MP3_GetPlayingPosition	4	static
+MP3.c:41:16:MP3_GetPlayingTime	4	static
+MP3.c:45:6:MP3_MountSD	8	static
+MP3.c:50:6:MP3_UnountSD	8	static
+MP3.c:56:6:MP3_Open	16	static
+MP3.c:67:6:MP3_Close	8	static
+MP3.c:73:6:MP3_Play	24	static

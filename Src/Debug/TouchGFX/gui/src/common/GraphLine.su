@@ -1,0 +1,34 @@
+Types.hpp:193:5:touchgfx::Rect::Rect(int16_t, int16_t, int16_t, int16_t)	24	static
+Types.hpp:215:20:int16_t touchgfx::Rect::right() const	16	static
+Drawable.hpp:248:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	24	static
+Drawable.hpp:355:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+Drawable.hpp:403:18:virtual void touchgfx::Drawable::childGeometryChanged()	16	static
+Drawable.hpp:415:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	16	static
+Drawable.hpp:427:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	16	static
+Drawable.hpp:439:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	16	static
+Drawable.hpp:452:18:virtual void touchgfx::Drawable::handleTickEvent()	16	static
+Drawable.hpp:499:10:bool touchgfx::Drawable::isVisible() const	16	static
+Drawable.hpp:515:10:bool touchgfx::Drawable::isTouchable() const	16	static
+Drawable.hpp:563:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	16	static
+Drawable.hpp:601:10:void touchgfx::Drawable::resetDrawChainCache()	16	static
+Drawable.hpp:687:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	24	static
+Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	24	static
+CWRUtil.hpp:83:18:touchgfx::CWRUtil::Q5::Q5(int)	16	static
+CWRUtil.hpp:137:12:touchgfx::CWRUtil::Q5 touchgfx::CWRUtil::Q5::operator+(const touchgfx::CWRUtil::Q5&) const	24	static
+CWRUtil.hpp:153:12:touchgfx::CWRUtil::Q5 touchgfx::CWRUtil::Q5::operator-(const touchgfx::CWRUtil::Q5&) const	24	static
+CWRUtil.hpp:225:12:touchgfx::CWRUtil::Q5 touchgfx::CWRUtil::Q5::operator/(int) const	24	static
+CanvasWidget.hpp:97:18:virtual void touchgfx::CanvasWidget::setAlpha(uint8_t)	16	static
+CanvasWidget.hpp:111:21:virtual uint8_t touchgfx::CanvasWidget::getAlpha() const	16	static
+AbstractGraph.hpp:465:17:touchgfx::CWRUtil::Q5 AbstractGraph::xAboveOutgoing(int) const	24	static
+AbstractGraph.hpp:469:17:touchgfx::CWRUtil::Q5 AbstractGraph::yAboveOutgoing(int) const	24	static
+AbstractGraph.hpp:473:17:touchgfx::CWRUtil::Q5 AbstractGraph::xBelowOutgoing(int) const	24	static
+AbstractGraph.hpp:477:17:touchgfx::CWRUtil::Q5 AbstractGraph::yBelowOutgoing(int) const	24	static
+AbstractGraph.hpp:481:17:touchgfx::CWRUtil::Q5 AbstractGraph::xAboveIncoming(int) const	24	static
+AbstractGraph.hpp:485:17:touchgfx::CWRUtil::Q5 AbstractGraph::yAboveIncoming(int) const	24	static
+AbstractGraph.hpp:489:17:touchgfx::CWRUtil::Q5 AbstractGraph::xBelowIncoming(int) const	24	static
+AbstractGraph.hpp:493:17:touchgfx::CWRUtil::Q5 AbstractGraph::yBelowIncoming(int) const	24	static
+GraphLine.cpp:5:6:virtual bool GraphLine::drawCanvasWidget(const touchgfx::Rect&) const	248	static
+GraphLine.cpp:48:6:virtual touchgfx::Rect GraphLine::getMinimalRectContainingIndices(int, int) const	160	static
+CWRUtil.hpp:263:11:T touchgfx::CWRUtil::Q5::to() const [with T = int]	16	static
+GraphLine.hpp:22:7:GraphLine::~GraphLine()	16	static
+GraphLine.hpp:22:7:virtual GraphLine::~GraphLine()	16	static

@@ -1,0 +1,5 @@
+pwr.c:13:6:PWR_Init	8	static
+pwr.c:18:10:PWR_ReadADC	48	static
+pwr.c:41:6:PWR_GetBatteryVoltage	24	static
+pwr.c:52:9:PWR_GetDCDetect	8	static
+pwr.c:60:9:PWR_GetPSStat	8	static

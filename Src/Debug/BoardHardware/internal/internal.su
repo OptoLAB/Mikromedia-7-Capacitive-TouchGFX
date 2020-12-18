@@ -1,0 +1,7 @@
+internal.c:12:6:INTERNAL_Init	16	static
+internal.c:18:10:INTERNAL_ReadADC	48	static
+internal.c:41:6:INTERNAL_GetTemperature	24	static
+internal.c:53:10:INTERNAL_GetTime	40	static
+internal.c:67:6:INTERNAL_SetTime	40	static
+internal.c:80:10:INTERNAL_GetDate	24	static
+internal.c:95:6:INTERNAL_SetDate	24	static

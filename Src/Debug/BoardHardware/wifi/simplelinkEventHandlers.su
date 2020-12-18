@@ -1,0 +1,5 @@
+simplelinkEventHandlers.c:17:6:SimpleLinkWlanEventHandler	24	static
+simplelinkEventHandlers.c:70:6:SimpleLinkNetAppEventHandler	16	static
+simplelinkEventHandlers.c:103:6:SimpleLinkGeneralEventHandler	16	static
+simplelinkEventHandlers.c:113:6:SimpleLinkSockEventHandler	16	static
+simplelinkEventHandlers.c:153:6:SimpleLinkHttpServerCallback	16	static

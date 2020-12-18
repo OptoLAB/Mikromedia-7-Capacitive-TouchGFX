@@ -1,0 +1,13 @@
+Presenter.hpp:42:18:virtual void touchgfx::Presenter::activate()	16	static
+Presenter.hpp:54:18:virtual void touchgfx::Presenter::deactivate()	16	static
+Presenter.hpp:65:13:touchgfx::Presenter::~Presenter()	16	static
+Presenter.hpp:65:13:virtual touchgfx::Presenter::~Presenter()	16	static
+Presenter.hpp:78:5:touchgfx::Presenter::Presenter()	16	static
+ModelListener.hpp:9:5:ModelListener::ModelListener()	16	static
+ModelListener.hpp:11:13:ModelListener::~ModelListener()	16	static
+ModelListener.hpp:11:13:virtual ModelListener::~ModelListener()	16	static
+NRFPresenter.hpp:28:13:NRFPresenter::~NRFPresenter()	16	static
+NRFPresenter.hpp:28:13:virtual NRFPresenter::~NRFPresenter()	16	static
+NRFPresenter.cpp:4:1:NRFPresenter::NRFPresenter(NRFView&)	16	static
+NRFPresenter.cpp:10:6:virtual void NRFPresenter::activate()	16	static
+NRFPresenter.cpp:15:6:virtual void NRFPresenter::deactivate()	16	static

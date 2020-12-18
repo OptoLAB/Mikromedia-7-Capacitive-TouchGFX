@@ -1,0 +1,43 @@
+Types.hpp:114:5:touchgfx::colortype::colortype(uint32_t)	16	static
+Types.hpp:173:5:touchgfx::Rect::Rect()	16	static
+Types.hpp:193:5:touchgfx::Rect::Rect(int16_t, int16_t, int16_t, int16_t)	24	static
+Drawable.hpp:59:5:touchgfx::Drawable::Drawable()	24	static
+Drawable.hpp:75:13:touchgfx::Drawable::~Drawable()	16	static
+Drawable.hpp:75:13:virtual touchgfx::Drawable::~Drawable()	16	static
+Drawable.hpp:248:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	24	static
+Drawable.hpp:292:13:int16_t touchgfx::Drawable::getWidth() const	16	static
+Drawable.hpp:306:13:int16_t touchgfx::Drawable::getHeight() const	16	static
+Drawable.hpp:322:18:virtual void touchgfx::Drawable::setX(int16_t)	16	static
+Drawable.hpp:338:18:virtual void touchgfx::Drawable::setY(int16_t)	16	static
+Drawable.hpp:355:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+Drawable.hpp:372:18:virtual void touchgfx::Drawable::setWidth(int16_t)	16	static
+Drawable.hpp:388:18:virtual void touchgfx::Drawable::setHeight(int16_t)	16	static
+Drawable.hpp:403:18:virtual void touchgfx::Drawable::childGeometryChanged()	16	static
+Drawable.hpp:415:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	16	static
+Drawable.hpp:427:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	16	static
+Drawable.hpp:439:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	16	static
+Drawable.hpp:452:18:virtual void touchgfx::Drawable::handleTickEvent()	16	static
+Drawable.hpp:563:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	16	static
+CWRUtil.hpp:71:9:touchgfx::CWRUtil::Q5::Q5()	16	static
+CWRUtil.hpp:83:18:touchgfx::CWRUtil::Q5::Q5(int)	16	static
+CWRUtil.hpp:107:9:touchgfx::CWRUtil::Q5::operator int() const	16	static
+CanvasWidget.hpp:97:18:virtual void touchgfx::CanvasWidget::setAlpha(uint8_t)	16	static
+AbstractGraph.hpp:43:9:AbstractGraph::GraphPoint::GraphPoint()	16	static
+Container.hpp:51:5:touchgfx::Container::Container()	16	static
+Container.hpp:63:13:touchgfx::Container::~Container()	16	static
+Container.hpp:63:13:virtual touchgfx::Container::~Container()	16	static
+AbstractPainterRGB565.hpp:48:13:touchgfx::AbstractPainterRGB565::~AbstractPainterRGB565()	16	static
+AbstractPainterRGB565.hpp:48:13:virtual touchgfx::AbstractPainterRGB565::~AbstractPainterRGB565()	16	static
+GraphLine.hpp:22:7:GraphLine::GraphLine()	16	static
+Graph.cpp:6:1:Graph::Graph()	32	static
+Graph.cpp:11:1:Graph::~Graph()	16	static
+Graph.cpp:11:1:virtual Graph::~Graph()	16	static
+Graph.cpp:15:6:void Graph::setup(int, int, uint16_t)	48	static
+Graph.cpp:31:6:void Graph::setRange(int, int, int, int)	32	static
+Graph.cpp:36:6:void Graph::setAlpha(uint8_t)	16	static
+Graph.cpp:43:9:uint8_t Graph::getAlpha()	16	static
+AbstractGraph.hpp:276:10:void AbstractGraph::setLineWidth(T) [with T = int]	40	static
+GraphLine.hpp:22:7:GraphLine::~GraphLine()	16	static
+GraphLine.hpp:22:7:virtual GraphLine::~GraphLine()	16	static
+PainterRGB565.hpp:35:7:touchgfx::PainterRGB565::~PainterRGB565()	16	static
+PainterRGB565.hpp:35:7:virtual touchgfx::PainterRGB565::~PainterRGB565()	16	static

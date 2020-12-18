@@ -1,0 +1,5 @@
+buzzer.c:15:6:BUZZER_SetTimerCounterPeriod	16	static
+buzzer.c:20:6:BUZZER_SetTimerComparePeriod	16	static
+buzzer.c:24:6:BUZZER_Stop	4	static
+buzzer.c:28:6:BUZZER_Start	4	static
+buzzer.c:33:6:BUZZER_Exec	4	static

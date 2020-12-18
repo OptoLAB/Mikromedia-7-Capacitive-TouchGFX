@@ -1,0 +1,11 @@
+device.c:69:21:_sl_GetStartResponseConvert	16	static
+device.c:85:6:sl_Task	8	static
+device.c:97:6:sl_Start	32	static
+device.c:175:16:_sl_HandleAsync_InitComplete	32	static
+device.c:207:6:_sl_HandleAsync_Stop	24	static
+device.c:241:6:sl_Stop	32	static
+device.c:334:6:sl_EventMaskSet	32	static
+device.c:372:6:sl_EventMaskGet	32	static
+device.c:411:6:sl_DevGet	56	static
+device.c:481:6:sl_DevSet	48	static
+device.c:509:16:_SlDrvDeviceEventHandler	48	static

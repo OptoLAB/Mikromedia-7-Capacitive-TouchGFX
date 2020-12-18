@@ -1,0 +1,33 @@
+Drawable.hpp:75:13:touchgfx::Drawable::~Drawable()	16	static
+Drawable.hpp:75:13:virtual touchgfx::Drawable::~Drawable()	16	static
+Drawable.hpp:248:18:virtual void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	24	static
+Drawable.hpp:322:18:virtual void touchgfx::Drawable::setX(int16_t)	16	static
+Drawable.hpp:338:18:virtual void touchgfx::Drawable::setY(int16_t)	16	static
+Drawable.hpp:355:18:virtual void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+Drawable.hpp:372:18:virtual void touchgfx::Drawable::setWidth(int16_t)	16	static
+Drawable.hpp:388:18:virtual void touchgfx::Drawable::setHeight(int16_t)	16	static
+Drawable.hpp:403:18:virtual void touchgfx::Drawable::childGeometryChanged()	16	static
+Drawable.hpp:415:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	16	static
+Drawable.hpp:427:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	16	static
+Drawable.hpp:439:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	16	static
+Drawable.hpp:452:18:virtual void touchgfx::Drawable::handleTickEvent()	16	static
+Drawable.hpp:499:10:bool touchgfx::Drawable::isVisible() const	16	static
+Drawable.hpp:515:10:bool touchgfx::Drawable::isTouchable() const	16	static
+Drawable.hpp:563:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	16	static
+Drawable.hpp:601:10:void touchgfx::Drawable::resetDrawChainCache()	16	static
+Drawable.hpp:687:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	24	static
+Container.hpp:63:13:touchgfx::Container::~Container()	16	static
+Container.hpp:63:13:virtual touchgfx::Container::~Container()	16	static
+Widget.hpp:53:13:touchgfx::Widget::~Widget()	16	static
+Widget.hpp:53:13:virtual touchgfx::Widget::~Widget()	16	static
+Widget.hpp:74:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	24	static
+Box.hpp:76:13:touchgfx::Box::~Box()	16	static
+Box.hpp:76:13:virtual touchgfx::Box::~Box()	16	static
+ScrollableContainer.hpp:61:13:touchgfx::ScrollableContainer::~ScrollableContainer()	16	static
+ScrollableContainer.hpp:61:13:virtual touchgfx::ScrollableContainer::~ScrollableContainer()	16	static
+ScrollableContainer.hpp:110:18:virtual void touchgfx::ScrollableContainer::isScrollableXY(bool&, bool&)	32	static
+ScrollableContainer.hpp:165:18:virtual void touchgfx::ScrollableContainer::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	24	static
+MyScrollableContainer.hpp:18:2:MyScrollableContainer::~MyScrollableContainer()	16	static
+MyScrollableContainer.hpp:18:2:virtual MyScrollableContainer::~MyScrollableContainer()	16	static
+MyScrollableContainer.cpp:11:1:MyScrollableContainer::MyScrollableContainer()	16	static
+MyScrollableContainer.cpp:16:6:virtual bool MyScrollableContainer::doScroll(int16_t, int16_t)	16	static

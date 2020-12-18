@@ -1,0 +1,8 @@
+fs.c:63:13:_sl_Strlen	24	static
+fs.c:76:6:_sl_GetCreateFsMode	56	static
+fs.c:118:6:sl_FsOpen	56	static
+fs.c:180:6:sl_FsClose	56	static
+fs.c:234:6:sl_FsRead	64	static
+fs.c:310:6:sl_FsWrite	64	static
+fs.c:390:6:sl_FsGetInfo	72	static
+fs.c:437:6:sl_FsDel	40	static

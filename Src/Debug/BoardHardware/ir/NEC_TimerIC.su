@@ -1,0 +1,9 @@
+NEC_TimerIC.c:16:6:NEC_Init	12	static
+NEC_TimerIC.c:22:6:NEC_StartCapture	8	static
+NEC_TimerIC.c:27:6:NEC_StopCapture	8	static
+NEC_TimerIC.c:32:9:NEC_Capture	16	static
+NEC_TimerIC.c:48:6:NEC_Decode	16	static
+NEC_TimerIC.c:76:9:NEC_GetCommand	4	static
+NEC_TimerIC.c:81:9:NEC_GetAddress	4	static
+NEC_TimerIC.c:86:9:NEC_GetStatus	4	static
+NEC_TimerIC.c:91:6:NEC_ClearStatus	4	static
