@@ -11,6 +11,6 @@ Project was built using following ecosystem:
 - [TouchGFX Designer](https://www.st.com/en/development-tools/touchgfxdesigner.html) (4.13.0) and TouchGFX GUI library - Graphic software framework optimized for STM32 microcontrollers
 - ST-LINK-V2 - Programmer for the STM8 and STM32 microcontroller families
 
-More info and examples can be found [here](https://www.optolab.ftn.uns.ac.rs/index.php/education/project-base/273-mikromedia-7-capacitive-and-touchgfx-gui-library-demo)
+More info can be found [here](https://www.optolab.ftn.uns.ac.rs/index.php/education/project-base/273-mikromedia-7-capacitive-and-touchgfx-gui-library-demo)
 
 Demo video on [youtube](https://www.youtube.com/watch?v=FzA2dw-phh4)
